@@ -1,2 +1,2 @@
 # stringer
-a better golang.org/x/cmd/stringer
+a better golang.org/x/tools/cmd/stringer
